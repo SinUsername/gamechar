@@ -13,3 +13,5 @@ game_sleep(); => dormir el systema
 n_sleep(1000*1000,0); => esta función lleva dos parámetros el primero es el tiempo que se desea usar , el segundo es la opción la opción 0 es simplemente duerme al sistema la segunda opción sea 1 es solo limpiado de pantalla y la última opinión o el número como argumento 3 es que realiza las dos al mismo tiempo
 
 Esta libreria utilizar la función de linux puede ser modificada para Windows 
+
+Cambiar la extensión del archivo de gamechar.c => gamechar.h
